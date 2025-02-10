@@ -1,2 +1,2 @@
 #!/bin/bash
-chown who_am_i
+chown betty
