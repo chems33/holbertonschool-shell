@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt --time=modification | awk 'NR>1 {print $9}' | head -10
+ls -t | head -10
